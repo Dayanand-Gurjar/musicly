@@ -1,4 +1,3 @@
-<H1 align ="center" > Musicly - Music Streaming Application </h1>
 
 # Musicly - Music Streaming Application
 
